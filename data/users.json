@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Achmad Alvin Ardiansyah",
+		"email": "alvin@gmail.com",
+		"password": "password",
+		"telephone": "0895706077200",
+		"alamat": "sidoarjo",
+		"role": "admin"
+	},
+	{
+		"name": "Joko Widodo",
+		"email": "jokowi@gmail.com",
+		"password": "password",
+		"telephone": "0123456789",
+		"alamat": "solo",
+		"role": "admin"
+	},
+	{
+		"name": "Prabowo Subianto",
+		"email": "prabowo@gmail.com",
+		"password": "password",
+		"telephone": "0987654321",
+		"alamat": "jakarta",
+		"role": "user"
+	},
+	{
+		"name": "Ganjar Pranowo",
+		"email": "ganjar@gmail.com",
+		"password": "password",
+		"telephone": "0864213579",
+		"alamat": "karanganyar",
+		"role": "user"
+	}
+]
